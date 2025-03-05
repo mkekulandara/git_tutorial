@@ -7,3 +7,6 @@ adding a commit to remote.
 added a line from new_branch.
 
 added a line from main branch.
+
+added a line from conflict branch.
+
